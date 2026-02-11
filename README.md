@@ -60,13 +60,6 @@ I created the following plots:
 
 ---
 
-## 📂 **Dataset**
-The dataset is taken from Kaggle:  
-🔗 https://www.kaggle.com/ (search for “anime.csv” dataset)
-
-*(If you upload the dataset to this repo, remove this note.)*
-
----
 
 ## ▶️ **How to View the Analysis**
 Open the notebook in Google Colab or Jupyter:
